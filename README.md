@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am pursuing a Master's in Data Science at the University of Calgary. 
+I am a highly qualified technology professional with expertise in networking, business, and data analysis. Demonstrated a strong track record at TELUS Communications Inc., where I managed national transport infrastructure, initiated automation efforts, and developed a comprehensive network knowledge base. A proficient problem solver with advanced analytical skills, I have quickly mastered new and emerging networking technologies. Successfully completed multiple data science projects, including analyses of mortality patterns in Alberta over the past two decades, diabetes trends in the United States, factors influencing sleep, and coral reef bleaching. A lifelong obsessive learner and avid technology enthusiast that is committed to continuous growth and staying at the forefront of industry advancements.. 
 
 
 ## 🌐 Socials:
